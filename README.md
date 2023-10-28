@@ -1,2 +1,2 @@
 # email-service
- Repositório do micro serviço de emal
+ Repositório do micro serviço de email

@@ -8,15 +8,9 @@ import lombok.Data;
 public class EmailDto {
     @NotBlank
     @Email
-    private String emailDe;
-    @NotBlank
-    @Email
     private String emailPara;
     @NotBlank
     private String assunto;
     @NotBlank
     private String texto;
-
-    @NotBlank
-    private String microsservico;
 }
